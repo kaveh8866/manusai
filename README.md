@@ -24,7 +24,7 @@ Dieses Projekt implementiert einen KI-gestützten Entwicklerassistenten, der auf
 
 1. Klone das OpenManus-Repository:
    ```bash
-   git clone https://github.com/mannaandpoem/OpenManus.git
+   git clone https://github.com/kaveh8866/manusai.git
    ```
 
 2. Installiere die benötigten Abhängigkeiten:
